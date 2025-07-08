@@ -18,6 +18,7 @@ In the future, we will support other tasks such as chatbot conversations, image 
 
 ## Run the miner
 Clone the repository:
+# окурат
 ```
 git clone git@github.com:sixgpt/miner.git
 cd miner
